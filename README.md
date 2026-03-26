@@ -1,4 +1,4 @@
-## Hand Gesture Recognition
+## ML Hand Gesture Recognition
 Hand Gesture Recognition is a Python GUI application that uses computer vision and machine learning to recognize Sign Language gestures in real time. 
 It supports three core workflows: predicting signs from camera input, translating speech to sign language, and building custom sign datasets. 
 The app features a secure login/signup system backed by a local SQLite database, ensuring only registered users can access the recognition tools.
